@@ -11,6 +11,10 @@
     <div>
         Testing pushing specific updates. 8/21/2015 3:47PM
     </div>
+    <div>
+        This is text from Team 1's branch. 8/26/2015 11:50 AM
+        This is additional text from Team 1's branch. 8/26/2015 11:53 AM
+    </div>
     </form>
 </body>
 </html>
